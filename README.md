@@ -3,14 +3,14 @@ Exercise2
 # Github Flavoured Markdown
 
 ## Checkbox
-- [ ] external link
-- [ ] internal link
-- [ ] images
-- [ ] emojis
-- [ ] tables
+- [ ] [External Link](#External-Link)
+- [ ] Internal Link
+- [ ] Images
+- [ ] Emojis
+- [ ] [Tables](#Table)
 
 ## External Link
-- [GitHub documentation ](https://help.github.com/en)
+- [GitHub documentation] (#https://help.github.com/en)
 
 ## Internal Link
 
