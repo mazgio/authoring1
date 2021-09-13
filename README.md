@@ -1,14 +1,21 @@
 # authoring1
 Exercise2
 # Github Flavoured Markdown
-## External Link
-## Internal Link
-## Images
-## Emojis
-## Tables
+
+## Checkbox
 - [ ] external link
 - [ ] internal link
 - [ ] images
 - [ ] emojis
 - [ ] tables
+
+##External Link
 - [GitHub documentation (https://help.github.com/en)
+
+## Internal Link
+
+## Images
+
+## Emojis
+
+## Tables
