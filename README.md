@@ -11,4 +11,4 @@ Exercise2
 - [ ] images
 - [ ] emojis
 - [ ] tables
-- [ ] 
+- [GitHub documentation (https://help.github.com/en)
