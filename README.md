@@ -7,7 +7,7 @@ Exercise2
 - [ ] Internal Link
 - [ ] Images
 - [ ] Emojis
-- [ ] [Tables](#Table)
+- [ ] [Tables](#Tables)
 
 ## External Link
 - [GitHub documentation] (#https://help.github.com/en)
