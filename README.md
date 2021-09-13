@@ -4,15 +4,16 @@ Exercise2
 
 ## Checkbox
 - [ ] [External Link](#External-Link)
-- [ ] Internal Link
-- [ ] Images
-- [ ] Emojis
+- [ ] [Internal Link](#Internal-Link)
+- [ ] [Images](#Images)
+- [ ] [Emojis](#Emojis)
 - [ ] [Tables](#Tables)
 
 ## External Link
 - [GitHub documentation](https://help.github.com/en)
 
 ## Internal Link
+
 
 ## Images
 ![some img description](images/the-markdown-its-beatiful.jpg)
