@@ -15,7 +15,7 @@ Exercise2
 ## Internal Link
 
 ## Images
-![some img description](images/)
+![some img description](images/the-markdown-its-beatiful.jpg)
 ## Emojis
 
 ## Tables
