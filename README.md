@@ -6,3 +6,9 @@ Exercise2
 ## Images
 ## Emojis
 ## Tables
+- [ ] external link
+- [ ] internal link
+- [ ] images
+- [ ] emojis
+- [ ] tables
+- [ ] 
