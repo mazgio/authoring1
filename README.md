@@ -9,8 +9,8 @@ Exercise2
 - [ ] emojis
 - [ ] tables
 
-##External Link
-- [GitHub documentation (https://help.github.com/en)
+## External Link
+- [GitHub documentation ](https://help.github.com/en)
 
 ## Internal Link
 
