@@ -10,7 +10,7 @@ Exercise2
 - [ ] [Tables](#Tables)
 
 ## External Link
-- [GitHub documentation] (#https://help.github.com/en)
+- [GitHub documentation] (https://help.github.com/en)
 
 ## Internal Link
 
