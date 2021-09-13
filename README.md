@@ -21,3 +21,7 @@ Exercise2
 :cat: :heart_eyes_cat:
 
 ## Tables
+| Header 1 | Header 2| 
+|:---------|--------:|
+| Giorgio | E0E2 | 
+| Vanesa  | E0E1 | 
