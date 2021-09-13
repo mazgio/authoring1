@@ -16,6 +16,8 @@ Exercise2
 
 ## Images
 ![some img description](images/the-markdown-its-beatiful.jpg)
+
 ## Emojis
+:cat: :heart_eyes_cat:
 
 ## Tables
