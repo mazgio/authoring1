@@ -4,25 +4,27 @@
 
 ## Checkbox
 - [ ] [External Link](#External-Link)
-- [ ] [Internal Link](#Internal-Link)
-- [ ] [Images](#Images)
-- [ ] [Emojis](#Emojis)
-- [ ] [Tables](#Tables)
+- [x] [Internal Link](#Internal-Link)
+- [x] [Images](#Images)
+- [x] [Emojis](#Emojis)
+- [x] [Tables](#Tables)
 
 ## External Link
-- [GitHub documentation](https://help.github.com/en)
+You can find the github documentation [GitHub documentation](https://help.github.com/en)
 
 ## Internal Link
 
 
 ## Images
+Here you can find the [images folder](images)
 ![some img description](images/the-markdown-its-beatiful.jpg)
 
 ## Emojis
-:cat: :heart_eyes_cat:
+:cat:\
+:heart_eyes_cat:\
 
 ## Tables
-| Header 1 | Header 2| 
+| Name | Class| 
 |:---------|--------:|
 | Giorgio | E0E2 | 
 | Vanesa  | E0E1 | 
