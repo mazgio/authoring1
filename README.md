@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Paola
+=======
+# Giorgio
+>>>>>>> 136131dbf097525aec91e324058403f4782036b2
 
 # Github Flavoured Markdown
 
