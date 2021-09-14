@@ -3,7 +3,7 @@
 # Github Flavoured Markdown
 
 ## Checkbox
-- [ ] [External Link](#External-Link)
+- [x] [External Link](#External-Link)
 - [x] [Internal Link](#Internal-Link)
 - [x] [Images](#Images)
 - [x] [Emojis](#Emojis)
